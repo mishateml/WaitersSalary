@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="sgira@localhost" uuid="19cc8a52-0ca1-4811-bf17-2ce12ca78e4a">
+      <database-info product="MySQL" version="5.5.53" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="upper" />
+      <user-name>root</user-name>
+      <introspection-schemas>*:sgira</introspection-schemas>
+    </data-source>
+    <data-source name="h" uuid="31db14f3-7da7-46b6-8f21-b1b2f41dc9ee">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>epiz_23201102</user-name>
+    </data-source>
+  </component>
+</project>
